@@ -3,8 +3,11 @@
     padding: 0;
   }
   body{
-  background-color: rgb(210, 226, 240);
+  background-color: rgb(240, 232, 210);
  
+  }
+  .triangle{
+  background-color: rgb(210, 226, 240);    
   }
   .area{
     background-color: rgb(195, 172, 248) 
