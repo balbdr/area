@@ -61,7 +61,7 @@
 }
 body{
     
-    padding-left: 10px
+    padding-left: 10px;
 }
 
 .inp{
@@ -86,7 +86,7 @@ body{
  }
  
 
-}.reset{
+.reset{
   padding: 5px 10px;
   margin: 10px;
   font-size: 15px;
