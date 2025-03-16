@@ -78,6 +78,7 @@ body{
   color:rgb(31, 30, 30);
   box-shadow: inset 10px 10px -1px rgba(10,99,169,0.16),
               inset-10px -10px -10px -1px rgba(236, 166, 166, 0.7);
+}
 
  
 .inp:hover{
