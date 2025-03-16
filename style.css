@@ -62,11 +62,11 @@ body{
 }
 
 .inp{
-  padding: 5px 5px;
+  padding: 10px 5px;
   margin: 10px;
   border-radius: 10px;  
   font-size: 12px;
-  font: 0.8em sans-serif;
+
   
   background: #f6f8e8;
   cursor: pointer;
