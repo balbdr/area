@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+  background-color: rgb(210, 226, 240);
+ 
+  }
+  .area{
+    background-color: rgb(195, 172, 248) 
+  }
+  .ropani{
+    background-color: rgb(195, 245, 190);
+  }
+  .bigha{
+    background-color: rgb(241, 230, 126);
+  }
+ 
+  
+
+  .header{
+    width: 100%;
+    min-height: 115vh;
+    background-image: url("image2/survey.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+    .clock{
+     /* background: blue;*/
+      height: 5vh;
+      display: flex;
+      justify-content: left;
+      align-items: left;
+         margin: 5px;
+     margin-left: 5%;
+       padding: 0px 5px;  
+    }
+   
+  
+    .clock{
+      display: flex;
+      color: red;
+      font-family: 'Orbitron', sans-serif;
+      font-size: 2.0rem;
+      letter-spacing: 0rem;
+      font-weight: bold;
+      /* margin-left: 10%;*/ 
+        padding: 5px 5px;
+        text-align: centre;
+       justify-content: left to right;
+    }
+  
+   /*.class =clock>00:00:00"</div>*/
+
+.triangle{
+     padding-left: 10px;
+}
+body{
+    
+    padding-left: 10px
+}
+
+.inp{
+  padding: 5px 5px;
+  margin: 10px;
+  font-size: 15px;
+
+  border-radius: 10px;
+  background: #f6f8e8;
+  cursor: pointer;
+ /* border: none;*/
+  
+ 
+  color:rgb(31, 30, 30);
+  box-shadow: inset 10px 10px -1px rgba(10,99,169,0.16),
+              inset-10px -10px -10px -1px rgba(236, 166, 166, 0.7);
+
+ 
+
+ 
+
+}.reset{
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 15px;
+
+  border-radius: 10px;
+  background: #f5b9b9;
+  cursor: pointer;
+}
+.squareFeet{
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 15px;
+
+  border-radius: 10px;
+  background: #ebeef1;
+  cursor: pointer;
+  /*border: none;*/
+ 
+  color:rgb(7, 7, 7);
+  box-shadow: inset 10px 10px -1px rgba(34, 10, 169, 0.16),
+              inset-10px -10px -10px -1px rgba(255, 255, 255, 0.397);
+
+
+}
+.squareMetersInput{
+  padding: 5px 10px;
+  margin: 10px;
+  font-size: 15px;
+
+  border-radius: 10px;
+  background: #ebeef1;
+  cursor: pointer;
+  /*border: none;*/
+ 
+  color:rgb(7, 7, 7);
+  box-shadow: inset 10px 10px -1px rgba(10,99,169,0.16),
+              inset-10px -10px -10px -1px rgba(255,255, 255, 0.70);
+
+
+}
+
+  
