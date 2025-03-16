@@ -65,7 +65,7 @@ body{
   padding: 5px 5px;
   margin: 10px;
   font-size: 12px;
-  font
+  font: 0.8em sans-serif;
   border-radius: 10px;
   background: #f6f8e8;
   cursor: pointer;
@@ -84,7 +84,7 @@ body{
   padding: 5px 10px;
   margin: 10px;
   font-size: 15px;
-  font: 0.8em sans-serif;
+  
   border-radius: 10px;
   background: #f5b9b9;
   cursor: pointer;
