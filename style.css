@@ -80,7 +80,9 @@ body{
               inset-10px -10px -10px -1px rgba(236, 166, 166, 0.7);
 
  
-
+.inp:hover{
+  background-color: rgb(238, 171, 204);
+ }
  
 
 }.reset{
