@@ -15,12 +15,23 @@
   .ropani{
     background-color: rgb(195, 245, 190);
   }
+ .ropani1{
+    background-color: rgb(235, 248, 179);
+  }
   .bigha{
     background-color: rgb(241, 230, 126);
+  }
+
+  .bigha1{
+    background-color: rgb(250, 214, 159);
   }
 .converter{
   background-color: rgb(245, 165, 165);  
 }
+ .converter1{
+   
+    background-color: rgb(245, 165, 209);
+  }
 .tayar{
      margin-left: 60Px;
 }
