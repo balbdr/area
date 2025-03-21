@@ -323,7 +323,7 @@ function calculateArea() {
     var area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
 
     if (!isNaN(area)) {
-        document.getElementById("results").innerHTML = "त्रिभुजको क्षेत्रफल =" + `${area.toFixed(4)}वर्गयुनिट​(वर्गमिटर/वर्गफिट)  `;
+        document.getElementById("results").innerHTML = "त्रिभुजको क्षेत्रफल  = " + `${area.toFixed(4)}  (वर्गयुनिट​)  `;
     } else {
         document.getElementById("results").innerHTML = "मिलेन(Invalid input)! रेखा को सही नाप लेख्नुहोस !(Triangle can not formed with these input values)";
     }
